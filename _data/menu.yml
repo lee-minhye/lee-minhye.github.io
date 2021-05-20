@@ -4,11 +4,10 @@
 entries:
   - title: info
     entries:
-      - title: "페미니즘 공부"
+      - title: "공부하는 사람"
       - title: "이메일 주소: fedow21@gmail.com"
         url: 
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
+      - title: "요즘 듣는 노래: 클로이 모리온도의 <a href='https://www.youtube.com/watch?v=yiXZnXLHt-w'>i eat boys"
   - title: all posts
     post_list:
       limit: 5
@@ -18,9 +17,11 @@ entries:
 
   - title: posts by category
     entries: 
-      - title: 문헌 요약 및 서평 
+      - title: 문헌 요약 및 서평
         url: 
-      - title: 
+      - title: 학술 저널 
+        url:
+      - title: 머리 식힐 때 쓴 글
     post_list:
       category: example2
       show_more: true
