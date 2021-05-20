@@ -31,8 +31,8 @@ entries:
   
   - title: another list
     entries:
-      - title: 머리 식힐 때 쓴 글
+      - title: "머리 식힐 때 쓴 글"
         entries:
-          - title: 일기
-          - title: 넷플릭스
+          - title: "일기"
+          - title: "넷플릭스"
  
