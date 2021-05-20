@@ -8,6 +8,7 @@ entries:
       - title: "이메일 주소: fedow21@gmail.com"
         url: 
       - title: "요즘 듣는 노래: 클로이 모리온도의 <a href='https://www.youtube.com/watch?v=yiXZnXLHt-w'>i eat boys"
+      
   - title: all posts
     post_list:
       limit: 5
