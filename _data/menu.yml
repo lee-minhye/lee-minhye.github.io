@@ -5,10 +5,10 @@ entries:
   - title: info
     entries:
       - title: "공부하는 사람"
-      - title: "이메일 주소: fedow21@gmail.com"
+      - title: "fedow21@gmail.com"
         url: 
-      - title: "요즘 듣는 노래: 클로이 모리온도의 <a href='https://www.youtube.com/watch?v=yiXZnXLHt-w'>i eat boys"
-      
+      - title: "요즘 듣는 노래"
+        url: https://www.youtube.com/watch?v=XOY8iX8B9PE
   - title: all posts
     post_list:
       limit: 5
