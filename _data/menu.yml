@@ -22,7 +22,6 @@ entries:
         url: 
       - title: 학술 저널 
         url:
-      - title: 머리 식힐 때 쓴 글
     post_list:
       category: example2
       show_more: true
@@ -32,11 +31,8 @@ entries:
   
   - title: another list
     entries:
-      - title: 
+      - title: 머리 식힐 때 쓴 글
         entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+          - title: 일기
+          - title: 넷플릭스
+ 
