@@ -1,5 +1,5 @@
-title: "lee min hye" # name of the site
-author: "lee min hye" # name of site's author
+title: "leeminhye" # name of the site
+author: "leeminhye" # name of site's author
 email: "fedow21@naver.com" # email of site's author
 url: "http://lee-minhye.github.io" # root address of the site
 baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
