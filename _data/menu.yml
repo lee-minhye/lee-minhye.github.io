@@ -2,37 +2,31 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: 소개
     entries:
-      - title: "공부하는 사람"
-      - title: "fedow21@gmail.com"
+      - title: "공부하고 글쓰는 사람"
+      - title: "써 놓은 서평, 독후감, 요약 정리 등 모음"
+      - title: "fedow21@naver.com"
         url: 
       - title: "요즘 듣는 노래"
         url: https://www.youtube.com/watch?v=XOY8iX8B9PE
-  - title: all posts
+  - title: "모든 글"
+    entries:
     post_list:
-      limit: 5
+      category: "every"
+      limit: 10
       show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
-    entries: 
-      - title: 문헌 요약 및 서평
-        url: 
-      - title: 학술 저널 
-        url:
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_text: 더보기...
+      show_more_url: every.html
 
   
-  - title: another list
+  - title: "메모해둔 거"
     entries:
-      - title: "머리 식힐 때 쓴 글"
-        entries:
-          - title: "일기"
-          - title: "넷플릭스"
+    post_list:
+      category: "every2"
+      limit: 10
+      show_more: true
+      show_more_text: 더보기...
+      show_more_url: every2.html
+   
  
