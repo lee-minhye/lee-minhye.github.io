@@ -4,7 +4,7 @@
 entries:
   - title: 소개
     entries:
-      - title: "공부하고 글쓰는 사람"
+      - title: "공부하고 글 쓰는 사람"
       - title: "써 놓은 서평, 독후감, 요약 정리 등 모음"
       - title: "fedow21@naver.com"
         url: 
@@ -21,7 +21,7 @@ entries:
       show_more_url: every.html
 
   
-  - title: "메모해둔 거"
+  - title: "메모 해둔 거"
     entries:
     post_list:
       category: "every2"
